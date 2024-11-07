@@ -124,5 +124,8 @@ main{
     color: #757575;
     text-align: center;
     font-size: 18px;
+}
 
+#what-i-do-describtion{
+    padding: 30px 150px;
 }
